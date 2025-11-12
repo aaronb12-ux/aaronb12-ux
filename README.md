@@ -48,5 +48,3 @@ I'm always open to collaborating on interesting projects or just chatting about 
 - 💼 [LinkedIn](https://www.linkedin.com/in/aaron-bernstein-600767272/)
 
 ---
-
-⭐️ From [your-github-username](https://github.com/aaronb12-ux)
