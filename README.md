@@ -2,7 +2,7 @@
 
 ### CS Student @ UC Davis 🐴 | Graduating December 2026
 
-I'm a full-stack developer who loves building things that matter. Whether it's crafting seamless web experiences, diving into backend systems, or exploring the world of AI/ML, I'm always excited to learn and create.
+I specialize in Full-stack development, Backend Engineeting, and AI/ML. 
 
 ---
 
@@ -10,7 +10,7 @@ I'm a full-stack developer who loves building things that matter. Whether it's c
 
 - 🎵 Built and deployed **[rocknreview.app](https://rocknreview.app)** - a full-stack song album review platform
 - 📱 Published a mobile app on the **iOS App Store**
-- 🔵 Currently diving **deep into Go** and loving every minute of it
+- 🔵 Strenghtening my skills in **Golang** 
 - 💻 Sharpening my problem-solving skills on **LeetCode**
 - 🎓 Platform Software Engineer @ **#include at Davis**
 - 📚 Member of the **CS Tutoring Club** at UC Davis
@@ -26,7 +26,7 @@ I'm a full-stack developer who loves building things that matter. Whether it's c
 `React` `React Native` `Angular`
 
 **Currently Exploring:**  
-`Go` (seriously, it's amazing)
+`Go`
 
 ---
 
