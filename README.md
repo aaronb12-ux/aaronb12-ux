@@ -6,12 +6,11 @@ I specialize in Full-stack development and Backend Engineeting.
 
 ---
 
-## 🚀 What I'm Up To
+## What I'm Up To
 
 - Built and deployed **[rocknreview.app](https://rocknreview.app)** - a full-stack song album review platform
 - Published a mobile app on the **iOS App Store**
 - Strenghtening my skills in **Golang** 
-- Sharpening my problem-solving skills on **LeetCode**
 - Platform Software Engineer @ **#include at Davis**
 - Academic Tutor at the **CS Tutoring Club** at UC Davis
 
