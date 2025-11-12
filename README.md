@@ -22,6 +22,9 @@ I specialize in Full-stack development, Backend Engineeting, and AI/ML.
 **Languages:**  
 `JavaScript` `TypeScript` `Python` `Go` `C++` `SQL`
 
+**Backend**
+`(gin) Go, Express, Django`
+
 **Frontend & Mobile:**  
 `React` `React Native` `Angular`
 
