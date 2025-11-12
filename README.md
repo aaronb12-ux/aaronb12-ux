@@ -2,7 +2,7 @@
 
 ### CS Student @ UC Davis | Graduating December 2026
 
-I specialize in Full-stack development, Backend Engineeting, and AI/ML. 
+I specialize in Full-stack development and Backend Engineeting. 
 
 ---
 
