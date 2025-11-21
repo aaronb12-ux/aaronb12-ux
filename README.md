@@ -16,19 +16,20 @@ I specialize in Full-stack development and Backend Engineeting.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:**  
 `JavaScript` `TypeScript` `Python` `Go` `C++` `SQL`
 
 **Backend:**
+
 `Go, Express, Django`
 
 **Frontend & Mobile:**  
 `React` `React Native` `Angular`
 
 **Currently Exploring:**  
-`Go`
+`Go` `C++`
 
 ## Let's Connect!
 
