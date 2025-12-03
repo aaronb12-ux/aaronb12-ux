@@ -10,7 +10,7 @@ I specialize in Full-stack development and Backend Engineeting.
 
 - Built and deployed **[rocknreview.app](https://rocknreview.app)** - a full-stack song album review platform
 - Published a mobile app on the **iOS App Store**
-- Strenghtening my skills in **Golang** 
+- Strenghtening my skills in **Golang and C++** 
 - Platform Software Engineer @ **#include at Davis**
 - Academic Tutor at the **CS Tutoring Club** at UC Davis
 
@@ -22,7 +22,7 @@ I specialize in Full-stack development and Backend Engineeting.
 `JavaScript` `TypeScript` `Python` `Go` `C++` `SQL`
 
 **Backend:**
-`Go, Express, Django`
+`Go` Express` `Django`
 
 **Frontend & Mobile:**  
 `React` `React Native` `Angular`
