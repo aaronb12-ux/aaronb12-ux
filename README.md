@@ -1,7 +1,7 @@
 # Hi there 👋
 
 👨‍🎓 **My name is Aaron**, a Computer Science student @ **UC Davis**   
-📘 Check out my most recent project on [https://rocknreview.app/](https://rocknreview.app/)
+📘 Check out my most recent project on [https://rocknreview.app/](https://rocknreview.app/)  
 🛠️ Currently, I am building 'ezDB' an embedded key/value database in Go
 👨‍💻 I enjoy programming and building in: `C++`, `Go`, `Python`, and `TypeScript`  
 💌 Feel free to reach out [here](https://www.linkedin.com/in/aaron-bernstein-600767272/)    
